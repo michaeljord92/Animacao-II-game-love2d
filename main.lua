@@ -1,4 +1,4 @@
--- Programa: Aula 5.6 a 5.7 - tilemaps, tilesets e animação
+-- Programa: Aula 5.6 a 5.8 - tilemaps, tilesets e animação
 -- Autor: Michael Jordan S Chagas
 -- Curso: Ciência da Computação - UFMT-CUA
 -- Disclina: Design e Programação de Games (Opt)
